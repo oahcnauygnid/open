@@ -23,7 +23,9 @@ https://www.jb51.net/article/197324.htm
 
 能ssh方式git clone后，在vscode开始页克隆Git克隆库，输入ssh方式git库地址即可
 
-（可以以这个为例git@github.com:oahcnauygnid/open.git（需要添加ssh公钥））
+或者git clone git@github.com:oahcnauygnid/open.git
+
+需要仓库持有者添加添加ssh公钥
 
 #### 3 https方式
 
