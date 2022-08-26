@@ -26,7 +26,10 @@ https://www.jb51.net/article/197324.htm
 （可以以这个为例git@github.com:oahcnauygnid/open.git（需要添加ssh公钥））
 
 #### 3 https方式
-首先git clone https://github.com/oahcnauygnid/open.git
+
+git clone https://github.com/oahcnauygnid/open.git
+
+git push时需要添加仓库持有者添加collaborators
 
 ### 4 pytorch搭建CNN识别MNIST数据集
 
