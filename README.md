@@ -38,7 +38,7 @@ https://blog.csdn.net/wyf2017/article/details/116230016
 
 可以搭建自己的网络结构，并注意结果可能导致loss为nan或不收敛以及寻找解决方法
 
-（https://github.com/oahcnauygnid/PPML.git 有写的pytorch mnist cnn示例）
+（https://github.com/oahcnauygnid/open.git 有写的pytorch mnist cnn示例）
 
 ### 5 神经网络知识（如果没学过）
 
