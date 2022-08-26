@@ -19,15 +19,13 @@ https://www.jb51.net/article/197324.htm
 
 只是下载的话直接git clone https://github.com/oahcnauygnid/open.git
 或者直接在git上download zip
-#### 2 ssh方式
+#### 2 ssh方式(需要仓库持有者添加添加ssh公钥)
 
 能ssh方式git clone后，在vscode开始页克隆Git克隆库，输入ssh方式git库地址即可
 
 或者git clone git@github.com:oahcnauygnid/open.git
 
-需要仓库持有者添加添加ssh公钥
-
-#### 3 https方式
+#### 3 https方式(需要仓库持有者添加collaborators)
 
 首先git clone https://github.com/oahcnauygnid/open.git
 
