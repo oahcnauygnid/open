@@ -27,9 +27,9 @@ https://www.jb51.net/article/197324.htm
 
 #### 3 https方式
 
-git clone https://github.com/oahcnauygnid/open.git
+首先git clone https://github.com/oahcnauygnid/open.git
 
-git push时需要添加仓库持有者添加collaborators
+在git push时需要仓库持有者添加collaborators
 
 ### 4 pytorch搭建CNN识别MNIST数据集
 
